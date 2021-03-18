@@ -7,8 +7,8 @@ import {
 import DashboardPage from "../pages/Dashboard-page";
 import Error404page from "../pages/Error404-page";
 import LmsPage from "../pages/Lms-page";
-import Loginpage from "../pages/Login-page";
-import RegisterPage from "../pages/Register-page";
+import Loginpage from "../pages/login/Login-page";
+import RegisterPage from "../pages/registre/Register-page";
 
 export default function AppRouter() {
   return (
